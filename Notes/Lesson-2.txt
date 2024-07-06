@@ -1,0 +1,13 @@
+<sameer> --> tag
+<sameer> --> opening tag
+</sameer> --> closing tag
+
+<abc>
+dlsjfd;lsf
+alsfjsladk;f
+klajsdf;lasf
+
+</abc>
+
+
+<al nafi benefit="uk accrediated">

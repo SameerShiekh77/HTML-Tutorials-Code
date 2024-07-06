@@ -1,0 +1,10 @@
+wrap text --> Alt + Z
+
+<blockquote> with attribute which name is cite="www.google.com"
+<q> --> for inverted commas
+
+<!--  --> comment --> ctrl + ?
+
+
+order list --> <ol>
+list -- > <li>

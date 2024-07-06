@@ -1,0 +1,13 @@
+for backward we use ../ 
+
+for forward just enter the folder name or file name
+
+
+Part 3 Topic
+
+- Linking to a Specific Part of the Same Page
+- Linking to a Specific Part of Another Page
+- HTML Links Summary
+
+
+https://daraz.pk

@@ -1,0 +1,12 @@
+- Adding Images
+- Height & Width of Images
+- Where to Place Images in Your Code
+    - Image Formats
+        - jpg
+        - jpeg
+        - png
+        - svg
+        - gif
+        - tiff
+        - webp
+- HTML Images Summary

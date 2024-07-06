@@ -1,0 +1,17 @@
+bold --> <b> <strong>
+italic --> <i> <em>
+
+subscript --> <sub> 
+superscript  -->  <sup>
+
+break line --> <br>
+
+horizontal line/row -->  <hr>
+
+
+These indicates something that is no longer accurate or relevant (but that should not be deleted). --> <strike> <s> <del>
+
+self closing tag
+<br> <img> <hr>
+
+

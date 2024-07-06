@@ -1,0 +1,19 @@
+Topic cover in this lesson
+
+
+- What's a Table?
+- Basic Table Structure
+- Table Headings
+- Spanning Columns
+- Spanning Rows
+- Tables Summary
+
+table --> table tag
+th -->  Headings
+tr --> Rows
+td --> Columns
+colspan use for merge Columns
+rowspan use for merge the Rows
+
+- Task: Create a Periodic Table
+https://sciencenotes.org/wp-content/uploads/2017/02/KidsPeriodicTable2017.png

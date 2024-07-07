@@ -1,0 +1,13 @@
+- Why Forms?
+- Form Controls
+- How Form Works
+- Form Structure
+- Use multiple and different input fields
+- Form Validation and Some features
+- Forms Summary
+
+
+- input tags are self closing tags like br hr
+
+
+Task: "Create a registration form whenever the user submit the form redirec to the thank you page"

@@ -1,0 +1,12 @@
+Comments in HTML --> ctrl + ?
+ID Attribute --> it always unique
+Class Attribute
+Block Elements
+Inline Elements
+IFrames
+Grouping Text & Elements In a Block and Inline
+Meta Tags
+Escape Characters
+Extra Markup Summary
+
+https://www.w3schools.com/html/html_blocks.asp
